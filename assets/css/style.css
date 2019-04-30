@@ -1,0 +1,37 @@
+.jumbotron{
+    text-align: center;
+    color: green;
+    width: 600px;
+    margin: auto;
+   
+    
+    
+    
+}
+.card-header {
+    background-color: green;
+    margin: 10px;
+}
+
+
+
+#submit{
+    background-color: green;
+}
+
+body{
+    background: url("../images/train.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    
+
+}
+
+.container{
+    margin: 20px;
+}  
+.card{
+    margin: 20px;
+ 
+}
+
