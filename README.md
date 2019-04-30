@@ -10,3 +10,6 @@ JavaScript
 jQuery
 Firebase Database
 Moment.js
+
+
+This site is published at https://burcuozmen.github.io/Train-Scheduler/
